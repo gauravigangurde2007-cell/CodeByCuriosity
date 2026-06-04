@@ -1,0 +1,9 @@
+import numpy as np
+import pandas as pd
+
+a = 10
+b = 15
+c = a + b
+
+print(c)
+
